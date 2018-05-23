@@ -1,0 +1,14 @@
+PORT=3002
+PRINT_LOG=yes
+PROD=production
+
+CLIENT_ID_SB=YourSandboxAppClientId
+CLIENT_SECRET_SB=YourSandboxAppClientSecret
+
+USERNAME_SB=YourSandboxUsername
+PASSWORD_SB=YourSandboxPassword
+
+CLIENT_ID_PROD=YourProductionAppClientId
+CLIENT_SECRET_PROD=YourProductionAppClientSecret
+USERNAME_PROD=YourProductionUsername
+PASSWORD_PROD=YourProductionPassword
